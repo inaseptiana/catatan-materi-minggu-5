@@ -70,13 +70,16 @@ return(
 )
 ```
 
-####Virtual DOM
+#### Virtual DOM
+
 Dengan DOM dapat berinteraksi seperti mengupdate data pada web. React js mempunyai fitur Virtual DOM yang mengupdate data tanpa perlu ngerefresh halaman.
 
-####Class
+#### Class
+
 Didalam jsx tidak boleh menggunakan attribut class harus menggunkan className
 
-####Curly Braces
+#### Curly Braces
+
 kita bisa menggunakan syntax javascrip didalam element html dengan curly breces
 curly braces bisa akses variabel pada jsx
 
@@ -129,7 +132,7 @@ terdapat 2 cara
 1 gunakan function
 2 gunakan class
 
-#3 State
+# 3 State
 State adalah data yang di miliki oleh sebuah komponen (statefull component)
 dan ada kemungkinan data dapat di ubah.
 membuat state di react membutuhkan useState()
